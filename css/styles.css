@@ -208,6 +208,7 @@ body {
 .brand {
   display: flex;
   cursor: pointer;
+  align-items: center;
 }
 
 .hotel-heading {
